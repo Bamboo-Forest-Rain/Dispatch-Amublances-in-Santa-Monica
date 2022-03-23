@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>My Places</name>
+	<open>1</open>
+	<Style>
+		<ListStyle>
+			<listItemType>check</listItemType>
+			<ItemIcon>
+				<state>open</state>
+				<href>:/mysavedplaces_open.png</href>
+			</ItemIcon>
+			<ItemIcon>
+				<state>closed</state>
+				<href>:/mysavedplaces_closed.png</href>
+			</ItemIcon>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Placemark id="1.2.1">
+		<name>The Craftsman Bar and Kitchen</name>
+		<address>119 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 573-8426</phoneNumber>
+		<snippet>119 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d048c7fe43:0x61b6105a443cf00d&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d048c7fe43:0x61b6105a443cf00d&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4960296,34.0132933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>The Speak Easy</name>
+		<address>1326 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 450-4989</phoneNumber>
+		<snippet>1326 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb2f40b1a713:0x4d096d29b74265b9&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb2f40b1a713:0x4d096d29b74265b9&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4765819,34.0153404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>ONYX Rooftop Bar</name>
+		<address>1301 Ocean Ave #1019, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 394-2791</phoneNumber>
+		<snippet>1301 Ocean Ave #1019, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4c541d81923:0x176f400f0e1fdadb&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4c541d81923:0x176f400f0e1fdadb&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4990017,34.0152127,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>The Chestnut Club - Santa Monica Bar - Cocktails</name>
+		<address>1348 14th St, Santa Monica, CA 90404</address>
+		<phoneNumber>(310) 393-1348</phoneNumber>
+		<snippet>1348 14th St, Santa Monica, CA 90404</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb34cc103d9f:0xf325904fd26ed0a6&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb34cc103d9f:0xf325904fd26ed0a6&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4861383,34.0242269,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Jameson’s Pub</name>
+		<address>2702 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(424) 330-0069</phoneNumber>
+		<snippet>2702 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb014721592d:0x26a979aa6c2d2523&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb014721592d:0x26a979aa6c2d2523&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4826595,34.0008273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>O&apos;Briens Irish Pub</name>
+		<address>2226 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 829-5303</phoneNumber>
+		<snippet>2226 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb495f8e67e5:0x4c505e13a954459b&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb495f8e67e5:0x4c505e13a954459b&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4806342,34.033164,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Bar Chloe</name>
+		<address>1449 2nd St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 899-6999</phoneNumber>
+		<snippet>1449 2nd St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d0379a7bf1:0xff55dd4dd7448efb&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d0379a7bf1:0xff55dd4dd7448efb&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4956563,34.0139744,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Sonny McLean&apos;s Irish Pub</name>
+		<address>2615 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 449-1811</phoneNumber>
+		<snippet>2615 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4f18e5c555:0x9d0126f253b691ae&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4f18e5c555:0x9d0126f253b691ae&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4771634,34.0364965,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Canary</name>
+		<address>1301 5th St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 451-2221</phoneNumber>
+		<snippet>1301 5th St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a517a16c4a87:0x82774bbba33019d9&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a517a16c4a87:0x82774bbba33019d9&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4955938,34.018513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>West 4th and Jane</name>
+		<address>1432 4th St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 395-6765</phoneNumber>
+		<snippet>1432 4th St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4ce27018903:0xce022e3498a4a40d&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4ce27018903:0xce022e3498a4a40d&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4946394,34.0156135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>The Daily Pint</name>
+		<address>2310 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 450-7631</phoneNumber>
+		<snippet>2310 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb2318bfc6fd:0xb93135e2f2e7ad8f&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb2318bfc6fd:0xb93135e2f2e7ad8f&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4661647,34.0211224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>The Bungalow</name>
+		<address>101 Wilshire Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 899-8530</phoneNumber>
+		<snippet>101 Wilshire Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4c43626101d:0xcc850f54593cc15a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4c43626101d:0xcc850f54593cc15a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.501538,34.0173918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Rick&apos;s Tavern On Main</name>
+		<address>2907 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 392-2772</phoneNumber>
+		<snippet>2907 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad21ea27d2f:0x798384fe317e517e&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad21ea27d2f:0x798384fe317e517e&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.48069,33.999443,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Circle Bar</name>
+		<address>2926 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 450-0508</phoneNumber>
+		<snippet>2926 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad202502409:0x105c799284b670bd&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad202502409:0x105c799284b670bd&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4806604,33.9988692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Britannia Pub</name>
+		<address>318 Santa Monica Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-5350</phoneNumber>
+		<snippet>318 Santa Monica Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4cfcd06cea7:0xa80fcb1104afc02c&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4cfcd06cea7:0xa80fcb1104afc02c&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4954235,34.0159493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>The Room Santa Monica</name>
+		<address>1325 Santa Monica Blvd, Santa Monica, CA 90404</address>
+		<phoneNumber>(866) 687-4499</phoneNumber>
+		<snippet>1325 Santa Monica Blvd, Santa Monica, CA 90404</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb34b61c6a95:0xbba2072af9586013&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb34b61c6a95:0xbba2072af9586013&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4860979,34.0239455,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>The Misfit Restaurant + Bar</name>
+		<address>225 Santa Monica Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 656-9800</phoneNumber>
+		<snippet>225 Santa Monica Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4cfdd9c475f:0xa23e8d365323987&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4cfdd9c475f:0xa23e8d365323987&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4966717,34.0154445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Weary Livers</name>
+		<address>2819 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(559) 690-0191</phoneNumber>
+		<snippet>2819 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bbf1db852f17:0x42cc8945665f5727&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bbf1db852f17:0x42cc8945665f5727&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4600355,34.0246826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Lanea</name>
+		<address>217 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(424) 265-7437</phoneNumber>
+		<snippet>217 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d035236787:0xda42f3d7625a8e97&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d035236787:0xda42f3d7625a8e97&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4952257,34.0140244,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>SHOREbar</name>
+		<address>112 W Channel Rd, Santa Monica, CA 90402</address>
+		<phoneNumber>(310) 429-1851</phoneNumber>
+		<snippet>112 W Channel Rd, Santa Monica, CA 90402</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4905d99cdf7:0xbb18f53c91cbb987&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4905d99cdf7:0xbb18f53c91cbb987&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.5188812,34.0284087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Cabo Cantina</name>
+		<address>1240 3rd Street Promenade, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 393-5755</phoneNumber>
+		<snippet>1240 3rd Street Promenade, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4c58658f8e7:0x55d4fd8ab2a4de83&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4c58658f8e7:0x55d4fd8ab2a4de83&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4985077,34.0173298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>1212 Santa Monica</name>
+		<address>1212 3rd Street Promenade, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 576-9996</phoneNumber>
+		<snippet>1212 3rd Street Promenade, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4c59392b3ab:0x2bfc6c3abfeb1022&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4c59392b3ab:0x2bfc6c3abfeb1022&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4990073,34.0179429,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Harvelle&apos;s</name>
+		<address>1432 4th St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 395-1676</phoneNumber>
+		<snippet>1432 4th St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4ce28c6aeb7:0xf51705582314131a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4ce28c6aeb7:0xf51705582314131a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4945602,34.0155449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Busby&apos;s West</name>
+		<address>3110 Santa Monica Blvd, Santa Monica, CA 90404</address>
+		<phoneNumber>(310) 828-4567</phoneNumber>
+		<snippet>3110 Santa Monica Blvd, Santa Monica, CA 90404</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4401557eb5:0x82b5d7f11d66918e&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4401557eb5:0x82b5d7f11d66918e&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4692307,34.0372261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Library Alehouse</name>
+		<address>2911 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 314-4855</phoneNumber>
+		<snippet>2911 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad21f27aa05:0x5bf82fdb1482abfc&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad21f27aa05:0x5bf82fdb1482abfc&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4807111,33.9993315,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Gas Lite</name>
+		<address>2030 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 829-2382</phoneNumber>
+		<snippet>2030 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4bba2675fd:0xdd9977178af60645&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4bba2675fd:0xdd9977178af60645&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4822846,34.0319186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>The Brixton</name>
+		<address>2827 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 449-4567</phoneNumber>
+		<snippet>2827 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb17776a3f7b:0x550257d926e1fc99&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb17776a3f7b:0x550257d926e1fc99&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4599269,34.0248212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>JuneShine - Santa Monica</name>
+		<address>2914 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(424) 744-8702</phoneNumber>
+		<snippet>2914 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4b19e18a4d:0xfa9749e8a1d49650&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4b19e18a4d:0xfa9749e8a1d49650&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4809256,33.9991136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Esters Wine Shop &amp; Bar</name>
+		<address>1314 7th St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 899-6900</phoneNumber>
+		<snippet>1314 7th St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4ce955a98e5:0x9f552a66874e8b9b&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4ce955a98e5:0x9f552a66874e8b9b&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4935844,34.0195764,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Big Dean&apos;s Ocean Front Cafe</name>
+		<address>1615 Ocean Front Walk, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 393-2666</phoneNumber>
+		<snippet>1615 Ocean Front Walk, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d0d472d739:0xf380c2219e98c8b8&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d0d472d739:0xf380c2219e98c8b8&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4954606,34.0103463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Bodega Wine Bar</name>
+		<address>814 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 394-3504</phoneNumber>
+		<snippet>814 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4cda7123a17:0x9209c23ec26b0f6f&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4cda7123a17:0x9209c23ec26b0f6f&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4893316,34.018322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>TR!P Santa Monica</name>
+		<address>2101 Lincoln Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 396-9010</phoneNumber>
+		<snippet>2101 Lincoln Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb2a2c7a813d:0xfa27a4a6a41db06d&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb2a2c7a813d:0xfa27a4a6a41db06d&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.480957,34.010893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Barney’s Beanery Santa Monica</name>
+		<address>1351 3rd Street Promenade, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 656-5777</phoneNumber>
+		<snippet>1351 3rd Street Promenade, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4cfc1253581:0x16926a6e26d5d7c2&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4cfc1253581:0x16926a6e26d5d7c2&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4962299,34.0161989,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Julian&apos;s Tequila &amp; Mezcal Lounge</name>
+		<address>3116 2nd St, Santa Monica, CA 90405</address>
+		<phoneNumber>(424) 268-7010</phoneNumber>
+		<snippet>3116 2nd St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bba9aa4aeda1:0xc4a3b5ccf5ed10a9&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bba9aa4aeda1:0xc4a3b5ccf5ed10a9&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4787655,33.9981497,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Chez Jay</name>
+		<address>1657 Ocean Ave, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 395-1741</phoneNumber>
+		<snippet>1657 Ocean Ave, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d6b304c7b5:0xcda066a36d3da4dd&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d6b304c7b5:0xcda066a36d3da4dd&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4932629,34.0104635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Brightsolid Online Pub Inc</name>
+		<address>Santa Monica, CA 90401</address>
+		<snippet>Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d055555555:0xc5da25be433668ad&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d055555555:0xc5da25be433668ad&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4952193,34.0125863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Ashland Hill</name>
+		<address>2807 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 392-3300</phoneNumber>
+		<snippet>2807 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad23040c9ef:0x9958dff63f57c70d&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad23040c9ef:0x9958dff63f57c70d&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4814561,34.0001965,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Mom&apos;s Bar</name>
+		<address>12238 Santa Monica Blvd, Los Angeles, CA 90025</address>
+		<phoneNumber>(310) 820-6667</phoneNumber>
+		<snippet>12238 Santa Monica Blvd, Los Angeles, CA 90025</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb424729c24b:0x9098fc6ff4b88c33&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb424729c24b:0x9098fc6ff4b88c33&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4649389,34.0396361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>The Nickel Mine</name>
+		<address>11363 Santa Monica Blvd, Los Angeles, CA 90025</address>
+		<phoneNumber>(818) 538-7401</phoneNumber>
+		<snippet>11363 Santa Monica Blvd, Los Angeles, CA 90025</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb7011b56bc3:0xc49c0371fc5cd262&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb7011b56bc3:0xc49c0371fc5cd262&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4507507,34.0459895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Local Kitchen &amp; Wine Bar</name>
+		<address>1736 Ocean Park Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 396-9007</phoneNumber>
+		<snippet>1736 Ocean Park Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb207c719491:0xfa989f62c5546bce&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb207c719491:0xfa989f62c5546bce&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4657028,34.0129083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Coast</name>
+		<address>1 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 587-1707</phoneNumber>
+		<snippet>1 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d5e4bfb7bf:0x3c695c4fc0cf5c11&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d5e4bfb7bf:0x3c695c4fc0cf5c11&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4917147,34.0067105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Seaside on the Pier</name>
+		<address>250 Santa Monica Pier, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 883-7437</phoneNumber>
+		<snippet>250 Santa Monica Pier, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5998567dc5f:0x57d1434c8dfc388d&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5998567dc5f:0x57d1434c8dfc388d&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4964942,34.0099818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>The Living Room</name>
+		<address>1 Pico Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-0030</phoneNumber>
+		<snippet>1 Pico Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d5e3f8a87d:0xfa72f5f7b6b94fa0&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d5e3f8a87d:0xfa72f5f7b6b94fa0&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4917521,34.0066793,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Longitude</name>
+		<address>530 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 399-9344</phoneNumber>
+		<snippet>530 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb2b3ae20371:0xc3b647ce2827f6e3&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb2b3ae20371:0xc3b647ce2827f6e3&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4854626,34.0106167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Rusty&apos;s Surf Ranch</name>
+		<address>256 Santa Monica Pier, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 393-7437</phoneNumber>
+		<snippet>256 Santa Monica Pier, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d0cea7d063:0xf22cdb80eadbde52&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d0cea7d063:0xf22cdb80eadbde52&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4967077,34.0098102,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>The Backyard at Chez Jays</name>
+		<address>1657 Ocean Ave, Santa Monica, CA 90401</address>
+		<phoneNumber>(424) 238-5081</phoneNumber>
+		<snippet>1657 Ocean Ave, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5e980fca757:0xb7985c5e443877da&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5e980fca757:0xb7985c5e443877da&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4933943,34.0103541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Stout Burgers and Beers</name>
+		<address>111 Santa Monica Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 260-8679</phoneNumber>
+		<snippet>111 Santa Monica Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d00192c0c3:0x978d97e13be4dbb0&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d00192c0c3:0x978d97e13be4dbb0&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4978281,34.0145117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>The Victorian</name>
+		<address>2640 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 392-4956</phoneNumber>
+		<snippet>2640 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad375a5fd5f:0x3670a3510fff9e9&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad375a5fd5f:0x3670a3510fff9e9&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4833479,34.0013922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>LOBBY LOUNGE</name>
+		<address>101 Wilshire Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 576-7777</phoneNumber>
+		<snippet>101 Wilshire Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4c43626101d:0xc47b254280dda675&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4c43626101d:0xc47b254280dda675&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.5011182,34.0176048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>The Dudes&apos; Brewing Co. (Santa Monica, CA)</name>
+		<address>395 Santa Monica Pl #304, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 893-2151</phoneNumber>
+		<snippet>395 Santa Monica Pl #304, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5ba10ce0197:0xcf2256416efaa65a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5ba10ce0197:0xcf2256416efaa65a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4943363,34.0135395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>The Upper West</name>
+		<address>3321 Pico Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 586-1111</phoneNumber>
+		<snippet>3321 Pico Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb10f0059d11:0xcde5639fa30462a3&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb10f0059d11:0xcde5639fa30462a3&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4549922,34.0272263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>The Independence</name>
+		<address>205 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-2500</phoneNumber>
+		<snippet>205 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d04a04a1db:0xdeb6e472837cf4d5&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d04a04a1db:0xdeb6e472837cf4d5&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4954962,34.0137963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Stella Barra Pizzeria &amp; Wine Bar</name>
+		<address>2000 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 396-9250</phoneNumber>
+		<snippet>2000 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d57f643d39:0xfe91ca00ee918b1a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d57f643d39:0xfe91ca00ee918b1a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4887008,34.0066943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Jonah&apos;s Kitchen + Bar</name>
+		<address>2518 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 471-9200</phoneNumber>
+		<snippet>2518 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4ed87373f1:0xd45f549359797357&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4ed87373f1:0xd45f549359797357&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4776645,34.0356782,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>RED O CANTINA</name>
+		<address>1541 Ocean Ave #120, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-1600</phoneNumber>
+		<snippet>1541 Ocean Ave #120, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d11da248f1:0xa162f9e2e219c7eb&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d11da248f1:0xa162f9e2e219c7eb&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4950866,34.0118116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Umami Burger</name>
+		<address>525 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 451-1300</phoneNumber>
+		<snippet>525 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d204657267:0xa95d1a73c8907b53&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d204657267:0xa95d1a73c8907b53&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4919938,34.0166746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>RED O CANTINA</name>
+		<address>1541 Ocean Ave #120, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-1600</phoneNumber>
+		<snippet>1541 Ocean Ave #120, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d11da248f1:0xa162f9e2e219c7eb&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d11da248f1:0xa162f9e2e219c7eb&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4950866,34.0118116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Senator Jones</name>
+		<address>2020 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 829-1933</phoneNumber>
+		<snippet>2020 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4bb6ccca7d:0x6961b401e8acd7ca&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4bb6ccca7d:0x6961b401e8acd7ca&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4824993,34.0317467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Basement Tavern</name>
+		<address>2640 Main St, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 396-2469</phoneNumber>
+		<snippet>2640 Main St, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad39e6c82c5:0x885ec4e46a01ced5&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad39e6c82c5:0x885ec4e46a01ced5&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4833333,34.00138889999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Illusion Magic + Wine</name>
+		<address>1418 4th St, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 451-2241</phoneNumber>
+		<snippet>1418 4th St, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5c603e86cd9:0xf02a2c318559f269&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5c603e86cd9:0xf02a2c318559f269&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4948374,34.0158644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Robata Bar Santa Monica</name>
+		<address>1401 Ocean Ave, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 458-4771</phoneNumber>
+		<snippet>1401 Ocean Ave, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a54b94830f1d:0xb1b00e78be02eeb3&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a54b94830f1d:0xb1b00e78be02eeb3&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4974358,34.0140628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Herringbone Santa Monica</name>
+		<address>1755 Ocean Ave, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 971-4460</phoneNumber>
+		<snippet>1755 Ocean Ave, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d428ae6c2f:0xe1edf42a59ddc1b&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d428ae6c2f:0xe1edf42a59ddc1b&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4911005,34.0084436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Wally&apos;s Santa Monica</name>
+		<address>214 Wilshire Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(424) 293-5500</phoneNumber>
+		<snippet>214 Wilshire Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a56412e16e8b:0x55e3133b49ead20a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a56412e16e8b:0x55e3133b49ead20a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4996577,34.0175751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Father&apos;s Office Santa Monica</name>
+		<address>1018 Montana Ave, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 736-2224</phoneNumber>
+		<snippet>1018 Montana Ave, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4b9f955f87f:0xe2f44e06c250c920&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4b9f955f87f:0xe2f44e06c250c920&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4984734,34.0293843,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>The Buffalo Club</name>
+		<address>1520 Olympic Blvd, Santa Monica, CA 90404</address>
+		<phoneNumber>(310) 450-8600</phoneNumber>
+		<snippet>1520 Olympic Blvd, Santa Monica, CA 90404</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb31be1329b5:0x2e2da9dd30c1a661&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb31be1329b5:0x2e2da9dd30c1a661&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4788666,34.0207748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>The Santa Monica Whaler</name>
+		<address>101 Broadway, Santa Monica, CA 90401</address>
+		<phoneNumber>(424) 330-0166</phoneNumber>
+		<snippet>101 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5589e1e6035:0xd219c5a9157aa229&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5589e1e6035:0xd219c5a9157aa229&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4964248,34.0129804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>JINYA Ramen Bar - Santa Monica</name>
+		<address>2400 Main St Suite D, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 392-4466</phoneNumber>
+		<snippet>2400 Main St Suite D, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bad4d1e3c625:0xd65e12023156af40&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bad4d1e3c625:0xd65e12023156af40&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4855874,34.0037977,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Kimuya</name>
+		<address>2830 Wilshire Blvd, Santa Monica, CA 90403</address>
+		<phoneNumber>(310) 828-8404</phoneNumber>
+		<snippet>2830 Wilshire Blvd, Santa Monica, CA 90403</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb4f7e960ba9:0xb50d1fd7fc97ac0a&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb4f7e960ba9:0xb50d1fd7fc97ac0a&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4746521,34.037926,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>neat.</name>
+		<address>11780 W Pico Blvd, Los Angeles, CA 90064</address>
+		<phoneNumber>(310) 881-7081</phoneNumber>
+		<snippet>11780 W Pico Blvd, Los Angeles, CA 90064</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bb0ee8ff40eb:0x839d26a63a13fdcf&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bb0ee8ff40eb:0x839d26a63a13fdcf&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.447217,34.0306891,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Ye Olde King&apos;s Head</name>
+		<address>116 Santa Monica Blvd, Santa Monica, CA 90401</address>
+		<phoneNumber>(310) 451-1402</phoneNumber>
+		<snippet>116 Santa Monica Blvd, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a4d002f14df1:0x908a78616f7937cf&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a4d002f14df1:0x908a78616f7937cf&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.497265,34.0145692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>LA Draught</name>
+		<address>3021 Lincoln Blvd, Santa Monica, CA 90405</address>
+		<phoneNumber>(310) 919-1221</phoneNumber>
+		<snippet>3021 Lincoln Blvd, Santa Monica, CA 90405</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bbdca0420b21:0x20294fc58e7aa16f&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bbdca0420b21:0x20294fc58e7aa16f&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4712228,34.0034463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Nick&apos;s Bar</name>
+		<address>109 Broadway, Santa Monica, CA 90401</address>
+		<snippet>109 Broadway, Santa Monica, CA 90401</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2a5f118addfa1:0x24562312026d628&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2a5f118addfa1:0x24562312026d628&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4962402,34.0131346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>The Club Bar at The Peninsula</name>
+		<address>9882 S Santa Monica Blvd, Beverly Hills, CA 90212</address>
+		<phoneNumber>(310) 551-2888</phoneNumber>
+		<snippet>9882 S Santa Monica Blvd, Beverly Hills, CA 90212</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2bbf5e7cc85a3:0x58fcb0d58087971c&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2bbf5e7cc85a3:0x58fcb0d58087971c&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4106882,34.0657248,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>The Brig</name>
+		<address>1515 Abbot Kinney Blvd, Venice, CA 90291</address>
+		<phoneNumber>(310) 399-7537</phoneNumber>
+		<snippet>1515 Abbot Kinney Blvd, Venice, CA 90291</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.0181&lng=-118.48600000000002&fid=0x80c2babfcf584743:0xcd3a7acea77d8c30&hl=en&gl=us&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.0181&amp;lng=-118.48600000000002&amp;fid=0x80c2babfcf584743:0xcd3a7acea77d8c30&amp;hl=en&amp;gl=us&amp;client=earth-client&amp;cv=7.3.4.8248&amp;useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.4641748,33.9904022,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
